@@ -1,0 +1,46 @@
+body {
+    background: #FFE175;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+
+.burgerImage {
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: auto;
+    display: block;
+}
+
+#title {
+    padding-bottom: 20px;
+}
+
+.devouredBurgerDiv {
+    height: 30px;
+    background: #fff;
+    margin: 3px;
+    text-align: center;
+    padding: 3px;
+    color: #d3d3d3;
+    width: 90%;
+    margin-left: 30px;
+}
+
+.newBurgerDiv {
+    height: 30px;
+    background: #fff;
+    margin: 3px;
+    text-align: left;
+    padding: 3px;
+    width: 70%;
+    margin-left: 30px;
+}
+
+#devourbutton {
+    display: inline-block;
+ 
+}
